@@ -47,7 +47,7 @@ body{
     color: #8C8C8C;
     font-family: "Roboto";
     font-size: 18px;
-    
+    padding-left: 0px;
 }
 
 .slidercontainer{
@@ -393,7 +393,7 @@ body{
 }
 
 .contact form{
-    background-color: #fff;
+    background: rgba(255, 255, 255, 0.8);
     border-radius: 4%;
     width: 300px;
     position: absolute;
